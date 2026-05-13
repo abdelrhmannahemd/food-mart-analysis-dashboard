@@ -1,97 +1,59 @@
-# food-mart-analysis-dashboard
-Project Overview
+# Food Mart Sales Analysis | Power BI
 
-The Food Mart Analysis Dashboard is a comprehensive Power BI project designed to analyze sales performance, customer behavior, product profitability, and return rates across different store types and countries.
+## Project Overview
+This project presents an interactive Power BI dashboard designed to analyze Food Mart sales performance and provide valuable business insights related to sales, profit, customers, and product performance.
 
-This dashboard provides actionable business insights to support data-driven decision-making.
+The dashboard helps transform raw sales data into meaningful insights that support better business decisions and performance evaluation.
 
-📂 Dashboard Structure
-1️⃣ Sales Overview
+---
 
-This page provides a high-level summary of overall business performance:
+## Business Problem
+Businesses often face challenges in:
+- Tracking overall sales performance
+- Identifying top-selling products
+- Understanding customer purchasing behavior
+- Monitoring profit trends
+- Comparing category performance
 
-Total Revenue
+This dashboard provides a clear and interactive view of sales data to help stakeholders make data-driven decisions.
 
-Units Sold
+---
 
-Total Cost
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Excel
 
-Sales by Region
+---
 
-Sales by Store Type
+## Dashboard Features
+- KPI Cards
+- Sales Performance Analysis
+- Profit Analysis
+- Product Category Analysis
+- Customer Insights
+- Interactive Filters & Slicers
+- Trend Analysis
+- Regional Performance Tracking
 
-Sales by Country
+---
 
-Monthly Sales Trend
+## Key KPIs
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+- Average Sales
+- Top Products
+- Customer Performance
 
-2️⃣ Customer & Product Performance
+---
 
-This section analyzes customer contribution and product profitability:
+## Key Insights
+- Identified the highest-performing product categories.
+- Analyzed sales and profit trends over time.
+- Detected products generating high sales but low profit margins.
+- Compared regional and category performance.
+- Improved visibility into customer purchasing behavior.
 
-Total Profit
-
-Profit Margin
-
-Total Customers
-
-Top Customers by Sales
-
-Sales vs Profit (Top Products)
-
-Profit Margin by Product
-
-Sales by Gender
-
-3️⃣ Returns Analysis
-
-This page focuses on return behavior and operational efficiency:
-
-Total Returns
-
-Return Rate
-
-Returns by Store Type
-
-Returns Trend Over Time
-
-Return Rate by Product
-
-Total Returns by Country
-
- Key Insights
-
-Supermarket stores generate the highest revenue among all store types.
-
-Deluxe Supermarkets contribute significantly to overall profitability.
-
-The overall return rate remains below 1%, indicating strong operational efficiency.
-
-Sales show a noticeable upward trend toward the end of the year.
-
-🛠 Tools & Skills Used
-
-Power BI
-
-Data Modeling
-
-DAX Measures
-
-Business Intelligence Analysis
-
-Data Visualization
-
-KPI Development
-
- Business Value
-
-This dashboard enables stakeholders to:
-
-Monitor revenue and profitability
-
-Identify high-performing store types
-
-Analyze customer contribution
-
-Track return trends
-
-Support strategic business decisions
