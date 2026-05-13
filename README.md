@@ -23,7 +23,7 @@ This dashboard provides a clear and interactive view of sales data to help stake
 - Power BI
 - Power Query
 - DAX
-- Excel
+
 
 ---
 
